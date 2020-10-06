@@ -1,5 +1,3 @@
-
-
 const calculator = {
   add: (num1, num2) => {
     return num1 + num2;
@@ -12,7 +10,7 @@ const calculator = {
   },
   divide: (num1, num2) => {
     return num1 / num2;
-  }
-}
+  },
+};
 
 console.log(calculator.add(1, 2));
